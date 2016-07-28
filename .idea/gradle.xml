@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Users\ahsan_000\Downloads\android-studio-ide-143.2821654-windows\android-studio\gradle\gradle-2.10" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/apache-httpcomponents-httpclient" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gson-2.2.4" />
+            <option value="$PROJECT_DIR$/http-core-4.1" />
+            <option value="$PROJECT_DIR$/json-simple-1.1.1" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/apache-httpcomponents-httpclient" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gson-2.2.4" />
+            <option value="$PROJECT_DIR$/http-core-4.1" />
+            <option value="$PROJECT_DIR$/json-simple-1.1.1" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

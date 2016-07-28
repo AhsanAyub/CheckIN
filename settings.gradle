@@ -1,0 +1,1 @@
+include ':app', ':gson-2.2.4', ':json-simple-1.1.1', ':http-core-4.1', ':apache-httpcomponents-httpclient'
